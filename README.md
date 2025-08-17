@@ -5,8 +5,9 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
 </p>
 
 ---
-
+<div align="center">
 ## Tech Stack
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/16b768bd-8ea4-47ff-9218-cbe50cff1a8e" alt="logo1" height="80"/>
@@ -26,9 +27,10 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
 
 ---
 
-## <p align="center">
-Projects
-</p>
+
+<div align="center">
+## Projects
+</div>
 
 
 <!--
