@@ -24,6 +24,12 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
   <img src="https://github.com/user-attachments/assets/69d2b25a-cf1e-46b5-801f-7e2da6592bf2" alt="logo11" height="60"/>
 </p>
 
+---
+
+<p align="center">
+## Projects
+</p>
+
 
 <!--
 **ChrisDiaz007/ChrisDiaz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
