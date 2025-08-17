@@ -26,8 +26,8 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
 
 ---
 
-<p align="center">
-## Projects
+## <p align="center">
+Projects
 </p>
 
 
