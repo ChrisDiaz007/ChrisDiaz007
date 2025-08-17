@@ -10,7 +10,7 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
 
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   <img src="https://github.com/user-attachments/assets/16b768bd-8ea4-47ff-9218-cbe50cff1a8e" alt="logo1" height="120"/>
-  <img src="https://github.com/user-attachments/assets/671df4a9-678e-43be-8102-a9a623d6d351" alt="logo2" height="120"/>
+  <img src="https://github.com/user-attachments/assets/d4007fd5-195c-4a92-bf90-b37f79bdd786" alt="logo2" height="120"/>
   <img src="https://github.com/user-attachments/assets/ae576b96-d73b-48b4-934c-c12ce243069b" alt="logo3" height="120"/>
   <img src="https://github.com/user-attachments/assets/d7a91dd6-13d6-4ad0-9ea4-d6b83b340d9b" alt="logo4" height="120"/>
   <img src="https://github.com/user-attachments/assets/6d63ad62-9974-4c85-b314-038eef6954b3" alt="logo5" height="120"/>
