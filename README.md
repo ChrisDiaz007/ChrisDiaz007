@@ -8,7 +8,7 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
 
 ## Tech Stack
 
-<div style="display:flex; flex-wrap:wrap; gap:15px; align-teism:center; justify-content:center">
+<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center; justify-content:center">
   <img src="https://github.com/user-attachments/assets/16b768bd-8ea4-47ff-9218-cbe50cff1a8e" alt="logo1" height="80"/>
   <img src="https://github.com/user-attachments/assets/d4007fd5-195c-4a92-bf90-b37f79bdd786" alt="logo2" height="80"/>
   <img src="https://github.com/user-attachments/assets/ae576b96-d73b-48b4-934c-c12ce243069b" alt="logo3" height="80"/>
