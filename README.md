@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋, I'm Christopher Diaz
+
+---
+
+Driven by curiosity, I enjoy combining creativity with logic to solve problems. After working for 2.5 years as an IT support specialist, I developed strong teamwork skills and became both user- and results-oriented. My experience in IT sparked my passion for coding. I recently completed Le Wagon's intensive web development Tokyo bootcamp, learning skills in Ruby and JavaScript, and I'm now seeking a full stack development role.
 
 <!--
 **ChrisDiaz007/ChrisDiaz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
