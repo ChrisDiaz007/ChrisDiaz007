@@ -7,7 +7,9 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
 ---
 
 ## Tech Stack
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-start;">
+
+
+  <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-start;">
   <a href="https://github.com/user-attachments/assets/69d2b25a-cf1e-46b5-801f-7e2da6592bf2">
     <img src="https://github.com/user-attachments/assets/69d2b25a-cf1e-46b5-801f-7e2da6592bf2" alt="logo11" height="120" loading="lazy" style="border-radius:8px;"/>
   </a>
@@ -38,8 +40,11 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
   <a href="https://github.com/user-attachments/assets/671df4a9-678e-43be-8102-a9a623d6d351">
     <img src="https://github.com/user-attachments/assets/671df4a9-678e-43be-8102-a9a623d6d351" alt="logo2" height="120" loading="lazy" style="border-radius:8px;"/>
   </a>
-
+  <a href="https://github.com/user-attachments/assets/16b768bd-8ea4-47ff-9218-cbe50cff1a8e">
+    <img src="https://github.com/user-attachments/assets/16b768bd-8ea4-47ff-9218-cbe50cff1a8e" alt="logo1" height="120" loading="lazy" style="border-radius:8px;"/>
+  </a>
 </div>
+
 
 <!--
 **ChrisDiaz007/ChrisDiaz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
