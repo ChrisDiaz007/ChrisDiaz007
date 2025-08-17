@@ -9,8 +9,18 @@ Driven by curiosity, I enjoy combining creativity with logic to solve problems. 
 ## Tech Stack
 
 
-![Uploading css3-p<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#1572B6" d="M19.67 26l8.069 90.493 36.206 10.05 36.307-10.063L108.33 26H19.67zm69.21 50.488L86.53 98.38l.009 1.875L64 106.55v.001l-.018.015-22.719-6.225L39.726 83h11.141l.79 8.766 12.347 3.295-.004.015v-.032l12.394-3.495L77.702 77H51.795l-.222-2.355-.506-5.647L50.802 66h27.886l1.014-11H37.229l-.223-2.589-.506-6.03L36.235 43h55.597l-.267 3.334-2.685 30.154M89 14.374L81.851 6H89V1H73v4.363L81.39 13H73v5h16zm-19 0L63.193 6H70V1H55v4.363L62.733 13H55v5h15zM52 13h-8V6h8V1H38v17h14z"/></svg>lain-wordmark.svg…]()
-<img width="2400" height="2400" alt="logo1" src="https://github.com/user-attachments/assets/dd604a47-dd50-4b05-8d4c-f384632c37da" />
+<img width="2560" height="1565" alt="logo11" src="https://github.com/user-attachments/assets/69d2b25a-cf1e-46b5-801f-7e2da6592bf2" />
+<img width="554" height="555" alt="logo10" src="https://github.com/user-attachments/assets/91afc9b6-c5fe-4c2c-a57d-504c050cbd98" />
+<img width="180" height="180" alt="logo9" src="https://github.com/user-attachments/assets/6f6da7e1-a794-4913-b5f9-04b9da394e13" />
+<img width="4096" height="4096" alt="logo8" src="https://github.com/user-attachments/assets/2d46f000-5159-4a28-b7cd-8b56cfa7ba3e" />
+<img width="2160" height="2160" alt="logo7" src="https://github.com/user-attachments/assets/9516ef3d-4fa1-458a-b29b-163270f1287a" />
+<img width="500" height="483" alt="logo6" src="https://github.com/user-attachments/assets/f9a3fb01-5def-4a2f-befa-ab9bd58adeaf" />
+<img width="400" height="400" alt="logo5" src="https://github.com/user-attachments/assets/6d63ad62-9974-4c85-b314-038eef6954b3" />
+<img width="192" height="192" alt="logo4" src="https://github.com/user-attachments/assets/d7a91dd6-13d6-4ad0-9ea4-d6b83b340d9b" />
+<img width="400" height="400" alt="logo3" src="https://github.com/user-attachments/assets/ae576b96-d73b-48b4-934c-c12ce243069b" />
+<img width="512" height="512" alt="logo2" src="https://github.com/user-attachments/assets/671df4a9-678e-43be-8102-a9a623d6d351" />
+<img width="400" height="400" alt="logo1" src="https://github.com/user-attachments/assets/16b768bd-8ea4-47ff-9218-cbe50cff1a8e" />
+
 
 
 <!--
